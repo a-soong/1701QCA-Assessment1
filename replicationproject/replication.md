@@ -74,9 +74,23 @@ I began by making a mock up of the original timing gate project to see how it'd 
 ![Image](image1.jpg)
 A bit clumsy, but worked nethertheless and displayed a reading on the micro:bit. However, it wasn't the velocity. 
 ![Image](originalcode.png)
-So, after playing around and testing some of the micro:bit coding I came to this conclusion for it to display the velocity on the micro:bit screen. 
+So, after playing around and testing some of the micro:bit coding I came to this conclusion for it to display the velocity on the micro:bit screen. I found using terms such as "exit_gate" and "enter_gate" rather than just "event timestamp" made it a lot easier to work with. 
 Velocity Code
 ![Image](code.png)
+
+And so, my replication project began. I created some mock up designs of what I had in mind. Something similar to a skateboard ramp..
+![Image](image4.jpg)
+And then I realised that I lack a whole lot of drawing skill and couldn't really get down what I wanted in paper, so I made a cardboard mockup of the shape I wanted. 
+![Image](image3.jpg)
+Translated that onto a larger scale on thin wood, assembled it without adhesing together just to see how it'd look.  
+![Image](imagewood.jpg)
+Stuck some square dowel onto the middle piece as notches for the ramps
+![Image](template.jpg)
+And then began to paint a design on the ramp. Flames would go well with Barbie's aesthetic. 
+![Image](image5.jpg)
+
+
+
 
 
 ## Project outcome ##

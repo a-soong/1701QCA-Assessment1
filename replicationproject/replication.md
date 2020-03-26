@@ -66,7 +66,7 @@ How this relates to the project I am working on: As I progress through my replic
 
 ## Interaction flowchart ##
 
-![Image](interactionchart.jpeg)
+![Image](interactionchart.jpeg) ![Image](interactionchart2.jpeg)
 
 ## Process documentation
 
@@ -84,17 +84,15 @@ How this relates to the project I am working on: As I progress through my replic
 
 *Complete the following information.*
 
-### Project title ###
+### Speeding Wheelchair Barbie ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+Speeding Wheelchair Barbie is an interactive model that measures the velocity of a vehicle passing through - the vehicle in this case being a Wheelchair. This is intended to be a novelty interactive toy, but can be applied to a real life scenario if we ever had wheelchairs on the road and had to fine speeders.
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](shoscaseimage.jpeg)
 
 ### Additional view ###
 
@@ -107,6 +105,7 @@ How this relates to the project I am working on: As I progress through my replic
 I felt that if I had more time and didn't have other factors in play that I could create an object that is more thought out. The process was successful in achieving the outcome: measuring and displaying the velocity of Wheelchair Barbie, but it could improve with a better understand of design and understanding of materials e.g. finding a sturdier alternative to alligator clips, or why I chose to use x material instead of y. 
 Unfortunately because of the current COVID-19 situation as well the stress, worriedness and safety has influenced my process of developing my project. Not having the chance to interact and attend all my classes each week, being more cautious of my surroundings and my own wellbeing has lead me to push this project to the back of my mind. I really wish the pandemic didn't have to be at this time, because I thoroughly enjoyed this project and would have spent more time on it if I could. I'm probably going to make an improved version after submission for my own satisfication. 
 
+As my project was quite straightforward and for the most part, replicated the original timing gate project. To calculate the velocity I had to look into some math sources as I've retained nothing from highschool. 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 
 

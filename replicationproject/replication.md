@@ -7,14 +7,33 @@ Timing Gates
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+Sprint Race Timing System with Arduino
 
-(Insert URL to project)
+https://www.youtube.com/watch?v=q_4-i3iNggE
 
-![Image](missingimage.png)
+![Image](sprintrace.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because as it's related to time and speed. This system is practical and is simple in design. 
 
+
+### Related project 2 ###
+Micro:bit Reaction Game 
+
+https://www.youtube.com/watch?v=DgJ-S0q0EMs
+
+![Image](reactiongame.jpg)
+
+The materials used (cardboard, micro:bit, aluminium foil, alligator clips) and the purpose of said materials is very similar to what I used to create my replication project. Having used a micro:bit for the 'computer' of the project and foil to carry the current of electricity as a means of sensor. 
+
+
+### Related project 3 ###
+Arduino Mate Dispenser
+
+https://www.hackster.io/roni-bandini/arduino-mate-dispenser-17a96d
+
+![Image](mate.png)
+
+Although the Arduino Mate Dispenser has a completely different purpose, it shows how sensors can be used in many different ways and what these devices (Arduino, micro:bit etc.) have the potential of doing. 
 ## Reading reflections ##
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###

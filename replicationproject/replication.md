@@ -3,9 +3,6 @@
 ## Replication project choice ##
 Timing Gates
 
-## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
-
 ### Related project 1 ###
 Sprint Race Timing System with Arduino
 
@@ -13,7 +10,7 @@ https://www.youtube.com/watch?v=q_4-i3iNggE
 
 ![Image](sprintrace.png)
 
-This project is related to mine because as it's related to time and speed. This system is practical and is simple in design. 
+This project is similar in the way it deals with distance and speed. This system is practical and simple in design. 
 
 
 ### Related project 2 ###

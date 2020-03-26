@@ -32,13 +32,13 @@ This project is related to mine because (insert reasons here).
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: 
+What I thought before: That products have features.
 
-*What I learned: 
+What I learned: That there are more than just features within design, as well as the importance of microinteractions regardless of how subtle (or not) it is and the impact it has on a user's experience. It can make a product more pleasureable and easy to use even if we don't consciously remember that detail. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+What I would like to know more about: Other microinteractions that I use in my day to day life that I don't notice. 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+How this relates to the project I am working on: This chapter makes me think about how I could improve my design to be more user friendly and less clunky, and how small things can change the overall experience of a product. 
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 

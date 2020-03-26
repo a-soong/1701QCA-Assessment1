@@ -21,11 +21,10 @@ This experiment could be the basis of a real world application such as for inter
 Experiment 3: DIMMING AN LED USING A POTENTIOMETER
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](experiment3lighton.png) ![Image](experiment3lightoff.png)
 
-(Insert a caption here)
+Fig. 3 (left), LED light is bright when potentiometer is turned anti-clockwise. Fig. 4 (right), LED light is dim when potentiometer is turned clockwise.
 
 #### Reflection ####
 

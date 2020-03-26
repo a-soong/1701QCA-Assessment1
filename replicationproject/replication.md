@@ -127,7 +127,7 @@ and it worked!! I cut out a window to fit the micro:bit in the ramp and show the
 ### Speeding Wheelchair Barbie ###
 ### Project description ###
 
-Speeding Wheelchair Barbie is an interactive model that measures the velocity of a vehicle passing through - the vehicle in this case being a Wheelchair. This is intended to be a novelty interactive toy, but can be applied to a real life scenario if we ever had wheelchairs on the road and had to fine speeders.
+Speeding Wheelchair Barbie is an interactive model that measures the velocity of a vehicle passing through - the vehicle in this case being a Wheelchair. This is intended to be a novelty interactive toy, but can be applied to a real life scenario if we ever had to fine wheelchair speeders.
 
 ### Showcase image ###
 

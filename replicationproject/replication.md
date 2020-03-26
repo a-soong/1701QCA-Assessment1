@@ -35,7 +35,7 @@ Although the Arduino Mate Dispenser has a completely different purpose, it shows
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-What I thought before: Very little as I know not much about design, besides that it should be user friendly (?). 
+What I thought before: Very little as I know not much about design, besides that it should be user friendly (I didn't even know what that actually meant). 
 
 What I learned: The nuances in design and how the brain recognises different functions from our previous experiences using other products. 
 

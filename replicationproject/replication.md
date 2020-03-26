@@ -16,19 +16,16 @@ Timing Gates
 This project is related to mine because (insert reasons here).
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
-
-*For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+What I thought before: Very little as I know not much about design, besides that it should be user friendly (?). 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+What I learned: The nuances in design and how the brain recognises different functions from our previous experiences using other products. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+What I would like to know more about: Other examples of what is good and bad design in our everyday life. 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+How this relates to the project I am working on: It makes me think about my design for my projects. If something is clumsy, how can I signify how it's used or make it better? 
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 

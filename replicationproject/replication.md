@@ -118,7 +118,9 @@ Speeding Wheelchair Barbie is an interactive model that measures the velocity of
 
 ### Additional view ###
 https://www.youtube.com/embed/pjK1BEW560s
-![Image](image12.png)
+
+![Image](image12.jpg)
+
 What the inside of the ramp looks like. The ramp is able to be opened to turn the micro:bit on and closes back up. 
 ### Reflection ###
 

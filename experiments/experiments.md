@@ -9,7 +9,7 @@ EXperiment 2: USING A LIGHT SENSOR AND ANALOG INPUTS
 
 ![Image](experiment2star.jpg)  ![Image](experiment2moon.jpg)
 
-(Fig. 1 (left), star LED when exposed. Fig. 2. (right) moon LED when covered)
+Fig. 1 (left), star image when the light sensor is exposed. Fig. 2. (right) moon image when light sensor is covered.
 
 #### Reflection ####
 

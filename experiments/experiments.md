@@ -78,4 +78,4 @@ Fig. 7, when button 'A' is pressed on the micro:bit a brief tone is played, and 
 
 In this experiment, something I learnt was using music blocks and how simple it was to use and program them into the micro:bit. 
 
-This experiment could be the basis of a real world application such as an electronic instrument or musical toy. 
+This experiment could be the basis of a real world application such as an electronic instrument or musical toy (did someone say the b meowsic keyboard?).

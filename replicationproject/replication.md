@@ -88,7 +88,17 @@ Stuck some square dowel onto the middle piece as notches for the ramps
 ![Image](template.jpg)
 And then began to paint a design on the ramp. Flames would go well with Barbie's aesthetic. 
 ![Image](image5.jpg)
-
+With the design of my ramp, I wasn't going to be able to have the alligator clips on the side so after some 'very professional' brainstorming, I came up with sticking a bit of carefully ripped cardboard to the bottom of each gate. 
+![Image](image6.jpg)
+And yay, it worked! I coloured it black to match the ramp, stuck it on and added the double sided tape to secure the foil from the bottom of the ramp. 
+![Image](image7.jpg)
+I compared my mock up timing gate and my newly made timing gate and clipped on the alligator clips accordingly. 
+![Image](image8.jpg)
+![Image](image9.png)
+Gave it a quick whirl..
+![Image](image10.jpg)
+and it worked!! I cut out a window to fit the micro:bit in the ramp and show the LED display from the inside. I assembled all the pieces of the ramp together, using tape to secure each of ther sides of the ramp to the middle piece and the micro:bit. 
+![Image](image11.jpg)
 
 
 
@@ -96,8 +106,6 @@ And then began to paint a design on the ramp. Flames would go well with Barbie's
 ## Project outcome ##
 
 ### Speeding Wheelchair Barbie ###
-https://www.youtube.com/embed/pjK1BEW560s
-
 ### Project description ###
 
 Speeding Wheelchair Barbie is an interactive model that measures the velocity of a vehicle passing through - the vehicle in this case being a Wheelchair. This is intended to be a novelty interactive toy, but can be applied to a real life scenario if we ever had wheelchairs on the road and had to fine speeders.
@@ -107,11 +115,9 @@ Speeding Wheelchair Barbie is an interactive model that measures the velocity of
 ![Image](showcaseimage.jpg)
 
 ### Additional view ###
-
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
-
+https://www.youtube.com/embed/pjK1BEW560s
+![Image](image12.png)
+What the inside of the ramp looks like. The ramp is able to be opened to turn the micro:bit on and closes back up. 
 ### Reflection ###
 
 I felt that if I had more time and didn't have other factors in play that I could create an object that is more thought out. The process was successful in achieving the outcome: measuring and displaying the velocity of Wheelchair Barbie, but it could improve with a better understand of design and understanding of materials e.g. finding a sturdier alternative to alligator clips, or why I chose to use x material instead of y. 

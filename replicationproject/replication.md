@@ -39,7 +39,7 @@ https://create.arduino.cc/projecthub/lindsi8784/motion-following-motorized-camer
 
 ![Image](CamBase.jpg)
 
-Not completely related but I thought this project was really interesting seeing how they've used sensors to their advantage, and created the base. 
+Not completely related but I thought this project was really interesting seeing how they've made a tracking base.
 
 ## Reading reflections ##
 

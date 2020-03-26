@@ -31,6 +31,16 @@ https://www.hackster.io/roni-bandini/arduino-mate-dispenser-17a96d
 ![Image](mate.png)
 
 Although the Arduino Mate Dispenser has a completely different purpose, it shows how sensors can be used in many different ways and what these devices (Arduino, micro:bit etc.) have the potential of doing. 
+
+### Related project 4 ###
+Motion Following Motorized Camera Base
+
+https://create.arduino.cc/projecthub/lindsi8784/motion-following-motorized-camera-base-61afeb?ref=platform&ref_id=424_popular___&offset=23
+
+![Image](CamBase.jpg)
+
+Not completely related but I thought this project was really interesting seeing how they've used sensors to their advantage, and created the base. 
+
 ## Reading reflections ##
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###

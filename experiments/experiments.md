@@ -7,7 +7,7 @@ EXperiment 2: USING A LIGHT SENSOR AND ANALOG INPUTS
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](experiment2moon.jpeg)
+![Image](experiment2moon.jpg)
 
 (Insert a caption here)
 

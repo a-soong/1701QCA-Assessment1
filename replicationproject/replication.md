@@ -70,15 +70,16 @@ How this relates to the project I am working on: As I progress through my replic
 
 ## Process documentation
 
-
-![Image](missingimage.png)
-
-Code
+I began by making a mock up of the original timing gate project to see how it'd work. 
+![Image](image1.jpg)
+A bit clumsy, but worked nethertheless and displayed a reading on the micro:bit. However, it wasn't the velocity. 
+![Image](originalcode.png)
+So, after playing around and testing some of the micro:bit coding I came to this conclusion for it to display the velocity on the micro:bit screen. 
+Velocity Code
 ![Image](code.png)
 
-## Project outcome ##
 
-*Complete the following information.*
+## Project outcome ##
 
 ### Speeding Wheelchair Barbie ###
 https://www.youtube.com/embed/pjK1BEW560s

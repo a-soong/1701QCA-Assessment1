@@ -35,7 +35,7 @@ Although the Arduino Mate Dispenser has a completely different purpose, it shows
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-What I thought before: Very little as I know not much about design, besides that it should be user friendly (I didn't even know what that actually meant). 
+What I thought before: Very little as I know nothing about design, besides that it should be user friendly (I didn't even know what that actually meant). 
 
 What I learned: The nuances in design and how the brain recognises different functions from our previous experiences using other products. 
 
@@ -47,7 +47,7 @@ How this relates to the project I am working on: It makes me think about my desi
 
 What I thought before: That products have features.
 
-What I learned: That there are more than just features within design, as well as the importance of microinteractions regardless of how subtle (or not) it is and the impact it has on a user's experience. It can make a product more pleasureable and easy to use even if we don't consciously remember that detail. 
+What I learned: That there are more than just features and functions within design, as well as the importance of microinteractions regardless of how subtle (or not) it is and the impact it has on a user's experience. It can make a product more pleasureable and easy to use even if we don't consciously remember that detail. 
 
 What I would like to know more about: Other microinteractions that I use in my day to day life that I don't notice. 
 
@@ -57,7 +57,7 @@ How this relates to the project I am working on: This chapter makes me think abo
 
 What I thought before: I thought that in order to learn more about programming I'd have to study a relevant course.
 
-What I learned: learning programming is extremely accessible with all the shared information online, and that there are options of other relatively affordable microcontrollers such as the Arduino that makes coding and creating these interactive objects accessible to the average joe. I also learnt that it's viable to learn as you progress and experiment with trial and error. 
+What I learned: Learning programming is extremely accessible with all the shared information online, and that there are options of other relatively affordable microcontrollers such as the Arduino that makes coding and creating these interactive objects accessible to the average joe. I also learnt that it's viable to learn as you progress and experiment with trial and error. 
 
 What I would like to know more about: The capabilities of microcontrollers such as micro:bit and Arduino, and how I can use them to their potential in creating interactive objects for both this course and for my own enjoyment. 
 
@@ -72,8 +72,11 @@ How this relates to the project I am working on: As I progress through my replic
 
 I began by making a mock up of the original timing gate project to see how it'd work. 
 ![Image](image1.jpg)
-A bit clumsy, but worked nethertheless and displayed a reading on the micro:bit. However, it wasn't the velocity. 
+
+A bit clumsy, but worked nethertheless and displayed a reading on the micro:bit. However, it wasn't the the velocity being displayed.
+
 ![Image](originalcode.png)
+
 So, after playing around and testing some of the micro:bit coding I came to this conclusion for it to display the velocity on the micro:bit screen. I found using terms such as "exit_gate" and "enter_gate" rather than just "event timestamp" made it a lot easier to work with. 
 Velocity Code
 ![Image](code.png)

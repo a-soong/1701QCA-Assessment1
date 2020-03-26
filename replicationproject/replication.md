@@ -83,7 +83,11 @@ How this relates to the project I am working on: As I progress through my replic
 I began by making a mock up of the original timing gate project to see how it'd work. 
 ![Image](image1.jpg)
 
-A bit clumsy, but worked nethertheless and displayed a reading on the micro:bit. However, it wasn't the the velocity being displayed.
+A bit clumsy, but worked nethertheless and displayed a reading on the micro:bit.
+
+From this I learnt that it's very important for the foil in each gate to not be touching but also be as close to each other as possible. 
+
+THe velocity also wasn't displayed on the microbit as it hasn't been told to. 
 
 ![Image](originalcode.png)
 

@@ -66,7 +66,7 @@ How this relates to the project I am working on: As I progress through my replic
 
 ## Interaction flowchart ##
 
-![Image](interactionchart.jpeg) ![Image](interactionchart2.jpeg)
+![Image](interactionchart.jpg) ![Image](interactionchart2.jpg)
 
 ## Process documentation
 

@@ -24,17 +24,17 @@ Experiment 3: DIMMING AN LED USING A POTENTIOMETER
 
 ![Image](experiment3lighton.png) ![Image](experiemnt3lightoff.png)
 
-Fig. 3 (left), LED light is bright when potentiometer is turned anti-clockwise. Fig. 4 (right), LED light is dim when potentiometer is turned clockwise.
+Fig. 3 (top), LED light is bright when potentiometer is turned anti-clockwise. Fig. 4 (bottom), LED light is dim when potentiometer is turned clockwise.
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something I learnt was using the variables (for light state) and pins (analog write to pin, analog read pin, etc). The analog value determines the brightness of the LED. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as for appliances and setting the brightness on display monitors. 
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Experiment 4: USING A TRANSISTOR TO DRIVE A MOTOR
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.

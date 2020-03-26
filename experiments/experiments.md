@@ -56,7 +56,7 @@ Experiment 5: USING THE ACCELEROMETER TO CONTROL MOTOR SPEED
 
 ![Image](experiment5.png)
 
-Fig. 6, the speed of the fan motor is fast as the BBC micro:bit is tilt. The more tilted the microbit it the faster the fan motor gets. When the micro:bit was flat, the fan did not spin. 
+Fig. 6, the speed of the fan motor is fast as the BBC micro:bit is tilt. The more tilted the microbit is the faster the fan motor gets. When the micro:bit was flat, the fan did not spin. 
 
 #### Reflection ####
 

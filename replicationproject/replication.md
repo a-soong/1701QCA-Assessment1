@@ -77,6 +77,8 @@ A bit clumsy, but worked nethertheless and displayed a reading on the micro:bit.
 So, after playing around and testing some of the micro:bit coding I came to this conclusion for it to display the velocity on the micro:bit screen. I found using terms such as "exit_gate" and "enter_gate" rather than just "event timestamp" made it a lot easier to work with. 
 Velocity Code
 ![Image](code.png)
+For the wheelchair iteslf, I added foil under the footrest of the wheelchair for the current to pass through to trigger the gates. 
+![Image](barbiefeet.jpg)
 
 And so, my replication project began. I created some mock up designs of what I had in mind. Something similar to a skateboard ramp..
 ![Image](image4.jpg)

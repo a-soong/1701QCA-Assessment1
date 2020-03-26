@@ -2,7 +2,7 @@
 
 ### Experiment name ###
 
-EXperiment 2: USING A LIGHT SENSOR AND ANALOG INPUTS
+Experiment 2: USING A LIGHT SENSOR AND ANALOG INPUTS
 
 #### Photo of completed project ####
 
@@ -22,7 +22,7 @@ Experiment 3: DIMMING AN LED USING A POTENTIOMETER
 
 #### Photo of completed project ####
 
-![Image](experiment3lighton.png) ![Image](experiment3lightoff.png)
+![Image](experiment3lighton.png) ![Image](experiemnt3lightoff.png)
 
 Fig. 3 (left), LED light is bright when potentiometer is turned anti-clockwise. Fig. 4 (right), LED light is dim when potentiometer is turned clockwise.
 

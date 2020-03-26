@@ -37,17 +37,16 @@ This experiment could be the basis of a real world application such as for appli
 Experiment 4: USING A TRANSISTOR TO DRIVE A MOTOR
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](experiment4.png)
 
-(Insert a caption here)
+Fig. 5, image of completed experiment. Motor spins slowly after a few seconds and then faster until it reaches a maximum speed before slowing down and stopping. The cycle begins again.
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I learnt about the importance of a transistor when adding a motor to a microprocessor like the microbit. It allows more current flow to the components. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application for fans and turbines. 
 
 ### Experiment name ###
 
@@ -57,13 +56,13 @@ Experiment 5: USING THE ACCELEROMETER TO CONTROL MOTOR SPEED
 
 ![Image](experiment5.png)
 
-(Insert a caption here)
+Fig. 6, the speed of the fan motor is fast as the BBC micro:bit is tilt. The more tilted the microbit it the faster the fan motor gets. When the micro:bit was flat, the fan did not spin. 
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I learnt that the value of the acceleration block can return a value larger than 1023, but this will not be the case under the effect of Gravity alone. Tilting the micro:bit fowards and backwards gave values between -1023 and 1023 on the Y axis. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as for a cooling fan that has to be at a certain angle. 
 
 ### Experiment name ###
 
@@ -73,11 +72,11 @@ Experiment 6: SETTING THE TONE WITH A PIEZO BUZZER
 
 ![Image](experiment6.png)
 
-(Insert a caption here)
+Fig. 7, when button 'A' is pressed on the micro:bit a brief tone is played, and when button 'B' is pressed it plays a brief lower pitch tone. When both buttons 'A' and 'B' are pressed at the same time the buzzer plays a tune. 
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something I learnt was using music blocks and how simple it was to use and program them into the micro:bit. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as an electronic instrument or musical toy. 
 

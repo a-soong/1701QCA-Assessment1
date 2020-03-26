@@ -46,7 +46,7 @@ Fig. 5, image of completed experiment. Motor spins slowly after a few seconds an
 
 In this experiment, I learnt about the importance of a transistor when adding a motor to a microprocessor like the microbit. It allows more current flow to the components. 
 
-This experiment could be the basis of a real world application for fans and turbines. 
+This experiment could be the basis of a real world application for fans and turbines that are required at a certain rate of speed. 
 
 ### Experiment name ###
 

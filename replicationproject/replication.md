@@ -89,7 +89,7 @@ Speeding Wheelchair Barbie is an interactive model that measures the velocity of
 
 ### Showcase image ###
 
-![Image](shoscaseimage.jpeg)
+![Image](showcaseimage.jpeg)
 
 ### Additional view ###
 

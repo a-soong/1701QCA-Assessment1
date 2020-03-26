@@ -89,8 +89,8 @@ How this relates to the project I am working on: As I progress through my replic
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
-
+I felt that if I had more time and didn't have other factors in play that I could create an object that is more thought out. The process was successful in achieving the outcome: measuring and displaying the velocity of Wheelchair Barbie, but it could improve with a better understand of design and understanding of materials e.g. finding a sturdier alternative to alligator clips, or why I chose to use x material instead of y. 
+Unfortunately because of the current COVID-19 situation as well the stress, worriedness and safety has influenced my process of developing my project. Not having the chance to interact and attend all my classes each week, being more cautious of my surroundings and my own wellbeing has lead me to push this project to the back of my mind. I really wish the pandemic didn't have to be at this time, because I thoroughly enjoyed this project and would have spent more time on it if I could. I'm probably going to make an improved version after submission for my own satisfication. 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 

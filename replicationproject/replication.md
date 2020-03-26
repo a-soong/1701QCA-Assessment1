@@ -124,14 +124,9 @@ https://www.youtube.com/embed/pjK1BEW560s
 What the inside of the ramp looks like. The ramp is able to be opened to turn the micro:bit on and closes back up. 
 ### Reflection ###
 
-I felt that if I had more time and didn't have other factors in play that I could create an object that is more thought out. The process was successful in achieving the outcome: measuring and displaying the velocity of Wheelchair Barbie, but it could improve with a better understand of design and understanding of materials e.g. finding a sturdier alternative to alligator clips, or why I chose to use x material instead of y. 
-Unfortunately because of the current COVID-19 situation as well the stress, worriedness and safety has influenced my process of developing my project. Not having the chance to interact and attend all my classes each week, being more cautious of my surroundings and my own wellbeing has lead me to push this project to the back of my mind. I really wish the pandemic didn't have to be at this time, because I thoroughly enjoyed this project and would have spent more time on it if I could. I'm probably going to make an improved version after submission for my own satisfication. 
+In order to calculate the velocity I had to do more research into time and distance math as I've retained absolutely nothing from high school. After having found the related projects I realised how basic materials such as foil and cardboard is so versatile in creating prototype projects. 
+In the end the ramp did what it was supposed to do - calculate the velocity Wheelchair Barbie went down. But with more time I could've created a more 'finished' looking project. Especially because of the COVID-19 situation, I was unable to spend as much time as I wanted on my replication project but I hope to learn more and develop skills that could allow me to develop my ideas further (a proper on/off button, a better sensor, etc). The sensor in the micro:bit was a bit of a let down as it couldn't detect speeds that was as fast as the acceleration of the ramp itself if I didn't have to hold Barbie. I'd expand more on ways I could make the project more accurate and stable.
 
-As my project was quite straightforward and for the most part, replicated the original timing gate project. To calculate the velocity I had to look into some math sources as I've retained nothing from highschool. 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-
-
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
+I've found the concept of Wheelchair Barbie fascinating for awhile, and when I mentioned this product to a buddy he came up with the idea of putting a Wheelchair Barbie on a drone. I thought it was funny and so I thought about how I could incorporate Wheelchair Barbie into my own projects. I'd like to one day motorise her wheelchair and make it remote controlled. For now I can only dream. 
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*

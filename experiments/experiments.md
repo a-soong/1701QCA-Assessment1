@@ -39,7 +39,7 @@ Experiment 4: USING A TRANSISTOR TO DRIVE A MOTOR
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](experiment4.png)
 
 (Insert a caption here)
 
@@ -51,12 +51,11 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Experiment 5: USING THE ACCELEROMETER TO CONTROL MOTOR SPEED
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](experiment5.png)
 
 (Insert a caption here)
 
@@ -68,12 +67,11 @@ This experiment could be the basis of a real world application such as (insert s
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+Experiment 6: SETTING THE TONE WITH A PIEZO BUZZER
 
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+#### Photo of completed project ###
 
-![Image](missingimage.png)
+![Image](experiment6.png)
 
 (Insert a caption here)
 

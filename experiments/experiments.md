@@ -30,7 +30,7 @@ Fig. 3 (top), LED light is bright when potentiometer is turned anti-clockwise. F
 
 In this experiment, something I learnt was using the variables (for light state) and pins (analog write to pin, analog read pin, etc). The analog value determines the brightness of the LED. 
 
-This experiment could be the basis of a real world application such as for appliances and setting the brightness on display monitors. 
+This experiment could be the basis of a real world application such as for appliances and setting the brightness on the display for devices.
 
 ### Experiment name ###
 
@@ -56,7 +56,7 @@ Experiment 5: USING THE ACCELEROMETER TO CONTROL MOTOR SPEED
 
 ![Image](experiment5.png)
 
-Fig. 6, the speed of the fan motor is fast as the BBC micro:bit is tilt. The more tilted the microbit is the faster the fan motor gets. When the micro:bit was flat, the fan did not spin. 
+Fig. 6, the fan motor is spinning fast as the BBC micro:bit is tilt. The more tilted the microbit is the faster the fan motor gets. When the micro:bit was flat, the fan did not spin. 
 
 #### Reflection ####
 
@@ -79,4 +79,3 @@ Fig. 7, when button 'A' is pressed on the micro:bit a brief tone is played, and 
 In this experiment, something I learnt was using music blocks and how simple it was to use and program them into the micro:bit. 
 
 This experiment could be the basis of a real world application such as an electronic instrument or musical toy. 
-

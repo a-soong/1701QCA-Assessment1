@@ -32,9 +32,9 @@ This project is related to mine because (insert reasons here).
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: 
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
@@ -42,13 +42,13 @@ This project is related to mine because (insert reasons here).
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+What I thought before: I thought that in order to learn more about programming I'd have to study a relevant course.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+What I learned: learning programming is extremely accessible with all the shared information online, and that there are options of other relatively affordable microcontrollers such as the Arduino that makes coding and creating these interactive objects accessible to the average joe. I also learnt that it's viable to learn as you progress and experiment with trial and error. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+What I would like to know more about: The capabilities of microcontrollers such as micro:bit and Arduino, and how I can use them to their potential in creating interactive objects for both this course and for my own enjoyment. 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+How this relates to the project I am working on: As I progress through my replication project, the more I realise, like Sullivan I learn more as I go from trial and error than spending a chunk of time doing theory before even starting my endeavours. I've gone through multiple ideas and things that didn't work out, and even after 'finishing' my replication project there is still more I want to expand on and retry. 
 
 
 ## Interaction flowchart ##
